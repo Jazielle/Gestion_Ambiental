@@ -1,0 +1,13 @@
+/.herramientas/
+/tmp/
+/web/vendor/
+/web/node_modules/
+/web/.env
+/web/.env.*
+!/web/.env.example
+/web/storage/logs/*
+/web/storage/framework/cache/data/*
+/web/storage/framework/sessions/*
+/web/storage/framework/views/*
+/web/bootstrap/cache/*.php
+/web/.phpunit.result.cache
