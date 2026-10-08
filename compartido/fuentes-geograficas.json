@@ -1,0 +1,10 @@
+{
+  "proveedor": "geoBoundaries gbOpen",
+  "fuenteOriginal": "GeoBolivia, Derived from ADM3 layer",
+  "anioRepresentado": "2015",
+  "licenciaOriginal": "Public Domain",
+  "licenciaDistribucion": "CC BY 4.0",
+  "urlMetadatos": "https://www.geoboundaries.org/api/current/gbOpen/BOL/ADM1/",
+  "urlGeometria": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/BOL/ADM1/geoBoundaries-BOL-ADM1_simplified.geojson",
+  "nota": "Geometría simplificada para una demo educativa; no constituye un límite legal ni un sistema de emergencia."
+}
