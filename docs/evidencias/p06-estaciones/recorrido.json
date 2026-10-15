@@ -1,0 +1,12 @@
+{
+  "resultado": "aprobado",
+  "acciones": [
+    "registrar desde formulario",
+    "confirmar listado",
+    "abrir edición con datos guardados",
+    "guardar cambios",
+    "recargar y comprobar persistencia",
+    "formulario de 390 px sin desbordamiento"
+  ],
+  "erroresJavaScript": []
+}
