@@ -64,6 +64,8 @@ El código propio se organiza por funcionalidad, con nombres en español. Las in
 
 ## Documentación y evidencias
 
+[Descargar cambios y elegir ramas](docs/GUIA_RAMAS_Y_SINCRONIZACION.md): comandos de `fetch`, cambio de rama y actualización; distingue esta práctica del repositorio oficial de GeoCruz.
+
 El prompt de Cursor está en `docs/PROMPT_PARA_CURSOR.md`. Los cambios se enumeran en `docs/REGISTRO_CAMBIOS.md` y las comprobaciones en `docs/RESULTADOS_PRUEBAS.md`.
 
 Los integrantes ejecutan todas las operaciones Git/GitHub manualmente. El código local no acredita que se crearon issues, ramas, commits o PR, ni revisiones o merges. Esos pasos y sus capturas quedan pendientes de realizarlos con el equipo. Documentar después del desarrollo no equivale a tener planificación previa.

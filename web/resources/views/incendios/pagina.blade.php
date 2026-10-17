@@ -46,6 +46,7 @@
                 </svg>
                 Focos de calor
             </a>
+            <a href="{{ route('estaciones.index') }}">Estaciones de medición</a>
             <div class="territorio-lateral">
                 <span class="etiqueta-navegacion">TERRITORIO</span
                 ><strong>Santa Cruz</strong><span>Bolivia · Departamento</span>
